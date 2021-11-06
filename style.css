@@ -39,6 +39,8 @@ header {
   padding-bottom: 32px;
   font-size: 1.25rem;
   max-width: 350px;
+  padding-left: 16px;
+  padding-right: 16px;
 }
 
 .title {
